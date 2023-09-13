@@ -1,2 +1,1 @@
-hello from yourname
-goodbye from Ethan
+hello from Ethan
